@@ -1,7 +1,9 @@
-<center>
-![Dave Alsina's Github Stats](https://github-readme-stats.vercel.app/api?username=DaveAlsina&count_private=truei&show_icons=true&theme=gruvbox)
-<\center> 
+<div style="display:flex;margin:10px;padding:20px"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaveAlsina&count_private=truei&show_icons=true&theme=gruvbo://github-readme-stats.vercel.app/api?username=DaveAlsina&count_private=truei&show_icons=true&theme=gruvbox" />
+</div>
 
-<center>
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveAlsina&count_private=true&theme=gruvbox&layout=compact)
-<\center> 
+
+<div style="display:flex;margin:10px;padding:20px"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveAlsina&count_private=true&theme=gruvbox&layout=compac://github-readme-stats.vercel.app/api/top-langs/?username=DaveAlsina&count_private=true&theme=gruvbox&layout=compact" />
+</div>
+
